@@ -1,6 +1,6 @@
 h2. PlatformPlanet
 
-A 2D platform game which features planets which will be a bit like "SpaceFlighT2D":
+A 2D platform game which features planets which will be a bit like "SpaceFlight2D":http://gyvox.webs.com/spaceflight2d.htm
 
 The idea came from someone only known to me as "Saarelma", from "this page":http://gpwiki.org/index.php/Game_ideas:_Two-dimensional_Space_Game.
 
